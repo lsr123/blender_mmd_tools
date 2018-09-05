@@ -1,7 +1,7 @@
-mmd_tools
+﻿mmd_tools
 ===========
 
-About
+Aboutsss
 ----
 mmd_tools is a blender import addon for importing MMD (MikuMikuDance) model data (.pmd, .pmx) and motion data (.vmd)
 
